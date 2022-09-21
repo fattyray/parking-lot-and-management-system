@@ -250,7 +250,7 @@ def get_carinfo(x):
         if(delt.days)>0:
             isresedent=True
     return hs,isresedent
-#纯纯的后端交互系统   
+#纯纯的交互系统   
 def use_model():
     c_database()
     admin=False
